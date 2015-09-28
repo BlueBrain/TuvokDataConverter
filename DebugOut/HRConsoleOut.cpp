@@ -41,7 +41,6 @@
 #include <iostream>
 
 #include "HRConsoleOut.h"
-#include "../../Tuvok/Basics/Console.h"
 
 HRConsoleOut::HRConsoleOut() :
   m_iLengthLastMessage(0),

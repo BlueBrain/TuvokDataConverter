@@ -41,7 +41,7 @@
 #ifndef HRCONSOLEOUT_H
 #define HRCONSOLEOUT_H
 
-#include "../../Tuvok/DebugOut/AbstrDebugOut.h"
+#include <Tuvok/DebugOut/AbstrDebugOut.h>
 
 class HRConsoleOut : public AbstrDebugOut{
   public:
