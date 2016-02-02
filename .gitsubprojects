@@ -1,2 +1,2 @@
 # -*- mode: cmake -*-
-git_subproject(Tuvok https://github.com/BlueBrain/Tuvok.git master)
+git_subproject(Tuvok https://github.com/BlueBrain/Tuvok.git bbp)
